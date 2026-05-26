@@ -1,4 +1,4 @@
-hello guys, xina here
+Building AI assistants, self-hosted systems, and microservice architectures.
 
 <!--
 **xian0000000/xian0000000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
