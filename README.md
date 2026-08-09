@@ -1,12 +1,11 @@
+'''
        .__               
 ___  __|__| ____ _____   
 \  \/  /  |/    \\__  \  
  >    <|  |   |  \/ __ \_
 /__/\_ \__|___|  (____  /
       \/       \/     \/ 
-
-
-
+'''
 > *membangun dengan tenang, merusak dengan sengaja.*
 
 code di siang hari, debug di malam hari — menuangkan pikiran menjadi sistem, satu commit dalam satu waktu.
