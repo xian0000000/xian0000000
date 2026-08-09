@@ -1,4 +1,9 @@
-# xina
+       .__               
+___  __|__| ____ _____   
+\  \/  /  |/    \\__  \  
+ >    <|  |   |  \/ __ \_
+/__/\_ \__|___|  (____  /
+      \/       \/     \/ 
 
 ---
 > *membangun dengan tenang, merusak dengan sengaja.*
